@@ -1,6 +1,6 @@
 # Test Automation Project
 <a href="https://www.testrail.com">    
-<img src="https://www.testrail.com/wp-content/uploads/2023/03/Frame-4.png" align="right" height="150" />
+<img src="https://migsoft.ru/upload/iblock/1ad/2v5eh5et545p887bs0jy1q3wy0nntey0.jpg" height="170" align="left" />
 </a>
 
 ### **Overview**
