@@ -1,0 +1,11 @@
+{
+  "title": "My test case (text)",
+  "template_id": 1,
+  "type_id": 1,
+  "priority_id": 1,
+  "estimate": "3m",
+  "refs": "TR-1, TR-2",
+  "custom_preconds": "My preconditions",
+  "custom_steps": "My test steps",
+  "custom_expected": "My expected final results"
+}
